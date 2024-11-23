@@ -145,7 +145,7 @@ img {
 
 /* #region Hero */
 .page-hero {
-        background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url("/images/people-office.jpg");
+        background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url("../images/people-office.jpg");
         background-color: #2e2f42;
         background-size: cover;
         max-width: 1440px;
@@ -315,7 +315,6 @@ img {
         justify-content: center;
         align-items: center;
         gap: 24px;
-        margin-bottom: 32px;
         
 }
 
